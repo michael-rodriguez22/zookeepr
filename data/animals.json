@@ -126,6 +126,18 @@
         "loving"
       ],
       "id": "12"
+    },
+    {
+      "name": "Minou",
+      "species": "Cat",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "13"
     }
   ]
 }
